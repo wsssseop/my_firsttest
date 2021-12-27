@@ -24,6 +24,7 @@ int main()
 
 	Cents c1(6);
 	Cents c2(10);
+	Cents C3(5);
 
 
 	std::cout << (c1 + c2).GetCents() << std::endl;
